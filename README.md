@@ -6,7 +6,7 @@
   <p align="center">
     Google Meet Clone!
     <br />  
-     A Video Conference App Similar to Google Meet
+     A Video Conference App just like to Google Meet
     <br />
   </p>
 </p>
